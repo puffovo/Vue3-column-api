@@ -40,3 +40,5 @@ npm run start.dev(启动项目)
 9. 新建文章接口
 10. 删除文章接口
 11. 上传头图接口
+# 结语
+如果您想要学习后端express、nodejs以及MySQl，了解Vue3和TypeScript，了解，可以尝试该项目，欢迎交流讨论！
