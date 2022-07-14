@@ -1,5 +1,5 @@
-# Vue3-column-api
-基于Node.js, express, mysql实现的vue3-column[泡芙专栏](https://github.com/puffovo/vue3-zhiye)的后端接口，包含登录、注册、专栏、文章、上传图片等操作的api
+# 泡芙专栏--后端api
+基于Node.js, express, mysql实现的vue3-column[泡芙专栏](https://github.com/puffovo/vue3-zhiye)的后端接口，包含登录、注册、专栏、文章、上传图片等操作的api。
 # 技术栈
 Node.js + express + mysql
 # 项目运行
